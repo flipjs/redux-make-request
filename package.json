@@ -1,6 +1,6 @@
 {
   "name": "redux-make-request",
-  "description": "Lets all meet up in the year 2000",
+  "description": "HTTP Request Maker for Redux",
   "version": "0.0.0-semantically-released",
   "main": "lib/index.js",
   "scripts": {

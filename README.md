@@ -13,11 +13,11 @@ HTTP Request Maker for Redux
 
 ## INSTALL
 
-npm install 'redux-make-request'
+npm install redux-make-request
 
-## ALPHA Release
+## BETA Release
 
-This is currently in alpha stage and is a work in progress.
+This is currently in beta and is a work in progress.
 
 ## License
 

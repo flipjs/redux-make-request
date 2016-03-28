@@ -1,6 +1,7 @@
 import test from 'ava'
+import makeRequest from '../src'
 
-test('test ava', (t) => {
-  t.same(true, true)
+test('makeRequest', (t) => {
+  t.same(makeRequest(), undefined)
 })
 

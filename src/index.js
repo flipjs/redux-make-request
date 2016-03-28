@@ -1,1 +1,6 @@
-// your api here
+export function makeRequest () {
+  return undefined
+}
+
+export default makeRequest
+
